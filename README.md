@@ -36,7 +36,7 @@ You can install Oh my tmux! at any of the following locations:
 Installing in `~`:
 ```
 $ cd
-$ git clone --single-branch https://github.com/gpakosz/.tmux.git
+$ git clone --single-branch https://github.com/matheusgadelha/.tmux.git
 $ ln -s -f .tmux/.tmux.conf
 $ cp .tmux/.tmux.conf.local .
 ```
